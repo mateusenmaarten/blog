@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kZxNzmpD9eI=",
+  "success": true,
+  "projectFilePath": "D:\\Github\\blog\\BlazorStaticMinimalBlog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maarten\\.nuget\\packages\\blazorstatic\\1.0.0-beta.14\\blazorstatic.1.0.0-beta.14.nupkg.sha512",
+    "C:\\Users\\Maarten\\.nuget\\packages\\markdig\\0.39.1\\markdig.0.39.1.nupkg.sha512",
+    "C:\\Users\\Maarten\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Maarten\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Maarten\\.nuget\\packages\\yamldotnet\\16.3.0\\yamldotnet.16.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
